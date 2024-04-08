@@ -16,6 +16,6 @@ A dynamic Note App with pinning, automatic background color change, and seamless
 * **Pin or Unpin:** User can also pin or unpin the note and automatically background color of note will change on each time refresh.
 
 ## Technologies used
-* **Java
-* **Android Studio
-* **Room Database
+* Java
+* Android Studio
+* Room Database
