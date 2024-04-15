@@ -19,3 +19,5 @@ A dynamic Note App with pinning, automatic background color change, and seamless
 * Java
 * Android Studio
 * Room Database
+* XML
+* MVVM Architecture 
