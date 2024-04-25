@@ -1,8 +1,8 @@
-# MY NOTE
-A dynamic Note App with pinning, automatic background color change, and seamless CRUD operations.
+# NOTEPAD
+A dynamic Notepad with pinning, automatic background color change, and seamless CRUD operations.
 
 ## About
-* Developed a Note App utilizing Java, Android Studio, and Room Database.
+* Developed a Notepad utilizing Java, Android Studio, and Room Database.
 * Implemented features for adding, viewing, editing, and deleting notes seamlessly.
 * Integrated functionality for pinning or unpinning notes, offering user customization options.
 * Implemented automatic background color change for notes upon each refresh, enhancing visual appeal.
